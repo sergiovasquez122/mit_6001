@@ -1,0 +1,20 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+calculateHandlen	/home/sergio/Desktop/mit_6001/word_game/ps4a.py	/^def calculateHandlen(hand):$/;"	f	language:Python
+compChooseWord	/home/sergio/Desktop/mit_6001/word_game/ps4b.py	/^def compChooseWord(hand, wordList, n):$/;"	f	language:Python
+compPlayHand	/home/sergio/Desktop/mit_6001/word_game/ps4b.py	/^def compPlayHand(hand, wordList, n):$/;"	f	language:Python
+CONSONANTS	/home/sergio/Desktop/mit_6001/word_game/ps4a.py	/^CONSONANTS = 'bcdfghjklmnpqrstvwxyz'$/;"	v	language:Python
+dealHand	/home/sergio/Desktop/mit_6001/word_game/ps4a.py	/^def dealHand(n):$/;"	f	language:Python
+displayHand	/home/sergio/Desktop/mit_6001/word_game/ps4a.py	/^def displayHand(hand):$/;"	f	language:Python
+getFrequencyDict	/home/sergio/Desktop/mit_6001/word_game/ps4a.py	/^def getFrequencyDict(sequence):$/;"	f	language:Python
+getWordScore	/home/sergio/Desktop/mit_6001/word_game/ps4a.py	/^def getWordScore(word, n):$/;"	f	language:Python
+HAND_SIZE	/home/sergio/Desktop/mit_6001/word_game/ps4a.py	/^HAND_SIZE = 7$/;"	v	language:Python
+isValidWord	/home/sergio/Desktop/mit_6001/word_game/ps4a.py	/^def isValidWord(word, hand, wordList):$/;"	f	language:Python
+loadWords	/home/sergio/Desktop/mit_6001/word_game/ps4a.py	/^def loadWords():$/;"	f	language:Python
+playGame	/home/sergio/Desktop/mit_6001/word_game/ps4a.py	/^def playGame(wordList):$/;"	f	language:Python
+playGame	/home/sergio/Desktop/mit_6001/word_game/ps4b.py	/^def playGame(wordList):$/;"	f	language:Python
+playHand	/home/sergio/Desktop/mit_6001/word_game/ps4a.py	/^def playHand(hand, wordList, n):$/;"	f	language:Python
+SCRABBLE_LETTER_VALUES	/home/sergio/Desktop/mit_6001/word_game/ps4a.py	/^SCRABBLE_LETTER_VALUES = {$/;"	v	language:Python
+updateHand	/home/sergio/Desktop/mit_6001/word_game/ps4a.py	/^def updateHand(hand, word):$/;"	f	language:Python
+VOWELS	/home/sergio/Desktop/mit_6001/word_game/ps4a.py	/^VOWELS = 'aeiou'$/;"	v	language:Python
+wordList	/home/sergio/Desktop/mit_6001/word_game/ps4a.py	/^    wordList = loadWords()$/;"	v	language:Python
+WORDLIST_FILENAME	/home/sergio/Desktop/mit_6001/word_game/ps4a.py	/^WORDLIST_FILENAME = "words.txt"$/;"	v	language:Python
